@@ -1,0 +1,27 @@
+{
+  "id": "dia-2",
+  "titulo": "Dia 2",
+  "descricao": "Continue sua jornada no Quebra-Quadros, mas agora com charges e memes!",
+  "emoji": "2️⃣",
+  "itens": [
+    {
+      "tipo": "tirinha",
+      "id": "critica-1",
+      "titulo": "O consumo sem fim",
+      "credito": "Nome do autor / veículo, ano",
+      "quadros": [
+        { "imagem": "dia-2/consumo-1.png", "texto": "Quadro 1" },
+        { "imagem": "dia-2/consumo-2.png", "texto": "Quadro 2" },
+        { "imagem": "dia-2/consumo-3.png", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Qual é o principal alvo da crítica?",
+          "opcoes": ["O consumismo", "A falta de planejamento", "A política", "A escola"],
+          "correta": "O consumismo",
+          "explicacao": "A personagem está sempre querendo comprar mais."
+        }
+      ]
+    }
+  ]
+}

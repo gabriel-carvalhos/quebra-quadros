@@ -1,0 +1,66 @@
+{
+  "id": "dia-1",
+  "titulo": "Dia 1",
+  "descricao": "Una os quadros das tirinhas, e depois interprete ela respondendo algumas perguntas",
+  "emoji": "1️⃣",
+  "itens": [
+    {
+      "tipo": "tirinha",
+      "id": "humor-1",
+      "titulo": "Arrumando desculpas",
+      "credito": "BECK, Alexandre. Armandinho dois. São Paulo: Matrix, 2014, p. 64",
+      "quadros": [
+        { "imagem": "dia-1/arrumando-desculpas-1.png", "texto": "Quadro 1" },
+        { "imagem": "dia-1/arrumando-desculpas-2.png", "texto": "Quadro 2" },
+        { "imagem": "dia-1/arrumando-desculpas-3.png", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Ironia", "Humor", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Humor",
+          "explicacao": "A fala final faz um trocadilho com a palavra 'arrumar', gerando humor."
+        }
+      ]
+    },
+    {
+      "tipo": "tirinha",
+      "id": "ironia-1",
+      "titulo": "Dona Anésia",
+      "credito": "",
+      "quadros": [
+        { "imagem": "dia-1/dona-anesia-1.png", "texto": "Quadro 1" },
+        { "imagem": "dia-1/dona-anesia-2.png", "texto": "Quadro 2" },
+        { "imagem": "dia-1/dona-anesia-3.png", "texto": "Quadro 3" },
+        { "imagem": "dia-1/dona-anesia-4.png", "texto": "Quadro 4" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Ironia", "Humor", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Ironia",
+          "explicacao": "A personagem da Dona Anésia ironiza em suas falas."
+        }
+      ]
+    },
+    {
+      "tipo": "tirinha",
+      "id": "critica-1",
+      "titulo": "Arrumando desculpas",
+      "credito": "BECK, Alexandre. Armandinho dois. São Paulo: Matrix, 2014, p. 64",
+      "quadros": [
+        { "imagem": "dia-1/arrumando-desculpas-1.png", "texto": "Quadro 1" },
+        { "imagem": "dia-1/arrumando-desculpas-2.png", "texto": "Quadro 2" },
+        { "imagem": "dia-1/arrumando-desculpas-3.png", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Ironia", "Humor", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Humor",
+          "explicacao": "A fala final faz um trocadilho com a palavra 'arrumar', gerando humor."
+        }
+      ]
+    }
+  ]
+}

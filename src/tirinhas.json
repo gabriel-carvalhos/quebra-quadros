@@ -1,0 +1,43 @@
+{
+  "tirinhas": [
+    {
+      "id": "exemplo-1",
+      "titulo": "Tirinha de exemplo",
+      "quadros": [
+        { "imagem": "exemplo-1-a.png", "texto": "Texto alternativo do quadro 1" },
+        { "imagem": "exemplo-1-b.png", "texto": "Texto alternativo do quadro 2" },
+        { "imagem": "exemplo-1-c.png", "texto": "Texto alternativo do quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Ironia", "Humor", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Ironia",
+          "explicacao": "A fala diz o contrário do que a situação mostra."
+        },
+        {
+          "enunciado": "Qual é o principal alvo da crítica na tirinha?",
+          "opcoes": ["O consumo excessivo", "A falta de planejamento", "A política", "A escola"],
+          "correta": "A falta de planejamento",
+          "explicacao": "A personagem promete mudar e adia a decisão no último quadro."
+        }
+      ]
+    },
+    {
+      "id": "exemplo-2",
+      "titulo": "Outra tirinha",
+      "quadros": [
+        { "imagem": "exemplo-2-a.png", "texto": "Quadro 1" },
+        { "imagem": "exemplo-2-b.png", "texto": "Quadro 2" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "O efeito de humor surge de:",
+          "opcoes": ["Quebra de expectativa", "Linguagem formal", "Uso de metáfora", "Todas as anteriores"],
+          "correta": "Quebra de expectativa",
+          "ordemFixa": true
+        }
+      ]
+    }
+  ]
+}
