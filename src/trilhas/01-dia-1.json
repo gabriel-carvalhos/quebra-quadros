@@ -6,7 +6,7 @@
   "itens": [
     {
       "tipo": "tirinha",
-      "id": "humor-1",
+      "id": "arrumando-desculpas",
       "titulo": "Arrumando desculpas",
       "credito": "BECK, Alexandre. Armandinho dois. São Paulo: Matrix, 2014, p. 64",
       "quadros": [
@@ -25,7 +25,7 @@
     },
     {
       "tipo": "tirinha",
-      "id": "ironia-1",
+      "id": "dona-anesia",
       "titulo": "Dona Anésia",
       "credito": "",
       "quadros": [
@@ -45,20 +45,198 @@
     },
     {
       "tipo": "tirinha",
-      "id": "critica-1",
-      "titulo": "Arrumando desculpas",
-      "credito": "BECK, Alexandre. Armandinho dois. São Paulo: Matrix, 2014, p. 64",
+      "id": "beatles",
+      "titulo": "Os Beatles",
+      "credito": "",
       "quadros": [
-        { "imagem": "dia-1/arrumando-desculpas-1.png", "texto": "Quadro 1" },
-        { "imagem": "dia-1/arrumando-desculpas-2.png", "texto": "Quadro 2" },
-        { "imagem": "dia-1/arrumando-desculpas-3.png", "texto": "Quadro 3" }
+        { "imagem": "dia-1/beatles-1.jpg", "texto": "Quadro 1" },
+        { "imagem": "dia-1/beatles-2.jpg", "texto": "Quadro 2" },
+        { "imagem": "dia-1/beatles-3.jpg", "texto": "Quadro 3" }
       ],
       "perguntas": [
         {
-          "enunciado": "Qual recurso é usado nesta tirinha?",
-          "opcoes": ["Ironia", "Humor", "Crítica social", "Exagero (hipérbole)"],
-          "correta": "Humor",
-          "explicacao": "A fala final faz um trocadilho com a palavra 'arrumar', gerando humor."
+          "enunciado": "Enunciado",
+          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
+          "correta": "Item B",
+          "explicacao": ""
+        }
+      ]
+    },
+    {
+      "tipo": "tirinha",
+      "id": "chico-bento",
+      "titulo": "Chico Bento",
+      "credito": "",
+      "quadros": [
+        { "imagem": "dia-1/chico-bento-1.jpg", "texto": "Quadro 1" },
+        { "imagem": "dia-1/chico-bento-2.jpg", "texto": "Quadro 2" },
+        { "imagem": "dia-1/chico-bento-3.jpg", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Enunciado",
+          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
+          "correta": "Item B",
+          "explicacao": ""
+        }
+      ]
+    },
+    {
+      "tipo": "tirinha",
+      "id": "clima",
+      "titulo": "Clima",
+      "credito": "",
+      "quadros": [
+        { "imagem": "dia-1/clima-1.jpg", "texto": "Quadro 1" },
+        { "imagem": "dia-1/clima-2.jpg", "texto": "Quadro 2" },
+        { "imagem": "dia-1/clima-3.jpg", "texto": "Quadro 3" },
+        { "imagem": "dia-1/clima-4.jpg", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Enunciado",
+          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
+          "correta": "Item B",
+          "explicacao": ""
+        }
+      ]
+    },
+    {
+      "tipo": "tirinha",
+      "id": "direitos-humanos",
+      "titulo": "Direitos Humanos",
+      "credito": "",
+      "quadros": [
+        { "imagem": "dia-1/direitos-humanos-1.jpg", "texto": "Quadro 1" },
+        { "imagem": "dia-1/direitos-humanos-2.jpg", "texto": "Quadro 2" },
+        { "imagem": "dia-1/direitos-humanos-3.jpg", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Enunciado",
+          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
+          "correta": "Item B",
+          "explicacao": ""
+        }
+      ]
+    },
+    {
+      "tipo": "tirinha",
+      "id": "dizendo-nao",
+      "titulo": "Direitos Humanos",
+      "credito": "",
+      "quadros": [
+        { "imagem": "dia-1/dizendo-nao-1.jpg", "texto": "Quadro 1" },
+        { "imagem": "dia-1/dizendo-nao-2.jpg", "texto": "Quadro 2" },
+        { "imagem": "dia-1/dizendo-nao-3.jpg", "texto": "Quadro 3" },
+        { "imagem": "dia-1/dizendo-nao-4.jpg", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Enunciado",
+          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
+          "correta": "Item B",
+          "explicacao": ""
+        }
+      ]
+    },
+    {
+      "tipo": "tirinha",
+      "id": "ferias",
+      "titulo": "Minhas Férias",
+      "credito": "",
+      "quadros": [
+        { "imagem": "dia-1/ferias-1.png", "texto": "Quadro 1" },
+        { "imagem": "dia-1/ferias-2.png", "texto": "Quadro 2" },
+        { "imagem": "dia-1/ferias-3.jpg", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Enunciado",
+          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
+          "correta": "Item B",
+          "explicacao": ""
+        }
+      ]
+    },
+    {
+      "tipo": "tirinha",
+      "id": "mafalda-praia",
+      "titulo": "Praia com a mafalda",
+      "credito": "",
+      "quadros": [
+        { "imagem": "dia-1/mafalda-praia-1.jpg", "texto": "Quadro 1" },
+        { "imagem": "dia-1/mafalda-praia-2.jpg", "texto": "Quadro 2" },
+        { "imagem": "dia-1/mafalda-praia-3.png", "texto": "Quadro 3" },
+        { "imagem": "dia-1/mafalda-praia-4.jpg", "texto": "Quadro 3" },
+        { "imagem": "dia-1/mafalda-praia-5.jpg", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Enunciado",
+          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
+          "correta": "Item B",
+          "explicacao": ""
+        }
+      ]
+    },
+    {
+      "tipo": "tirinha",
+      "id": "pedrinho",
+      "titulo": "Pedrinho",
+      "credito": "",
+      "quadros": [
+        { "imagem": "dia-1/pedrinho-1.jpg", "texto": "Quadro 1" },
+        { "imagem": "dia-1/pedrinho-2.jpg", "texto": "Quadro 2" },
+        { "imagem": "dia-1/pedrinho-3.jpg", "texto": "Quadro 3" },
+        { "imagem": "dia-1/pedrinho-4.jpg", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Enunciado",
+          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
+          "correta": "Item B",
+          "explicacao": ""
+        }
+      ]
+    },
+    {
+      "tipo": "tirinha",
+      "id": "peixe",
+      "titulo": "Peixe",
+      "credito": "",
+      "quadros": [
+        { "imagem": "dia-1/peixe-1.jpg", "texto": "Quadro 1" },
+        { "imagem": "dia-1/peixe-2.jpg", "texto": "Quadro 2" },
+        { "imagem": "dia-1/peixe-3.jpg", "texto": "Quadro 3" },
+        { "imagem": "dia-1/peixe-4.jpg", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Enunciado",
+          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
+          "correta": "Item B",
+          "explicacao": ""
+        }
+      ]
+    },
+    {
+      "tipo": "tirinha",
+      "id": "vacas",
+      "titulo": "vacas",
+      "credito": "",
+      "quadros": [
+        { "imagem": "dia-1/vacas-1.jpg", "texto": "Quadro 1" },
+        { "imagem": "dia-1/vacas-2.jpg", "texto": "Quadro 2" },
+        { "imagem": "dia-1/vacas-3.jpg", "texto": "Quadro 3" },
+        { "imagem": "dia-1/vacas-4.jpg", "texto": "Quadro 3" }
+      ],
+      "perguntas": [
+        {
+          "enunciado": "Enunciado",
+          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
+          "correta": "Item B",
+          "explicacao": ""
         }
       ]
     }
