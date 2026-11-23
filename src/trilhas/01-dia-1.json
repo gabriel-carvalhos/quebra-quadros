@@ -17,9 +17,9 @@
       "perguntas": [
         {
           "enunciado": "Qual recurso é usado nesta tirinha?",
-          "opcoes": ["Ironia", "Humor", "Crítica social", "Exagero (hipérbole)"],
-          "correta": "Humor",
-          "explicacao": "A fala final faz um trocadilho com a palavra 'arrumar', gerando humor."
+          "opcoes": ["Ironia", "Quebra de Expectativa", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Quebra de Expectativa",
+          "explicacao": "A fala final faz um trocadilho com a palavra 'arrumar', gerando quebra de expectativa."
         }
       ]
     },
@@ -37,8 +37,14 @@
       "perguntas": [
         {
           "enunciado": "Qual recurso é usado nesta tirinha?",
-          "opcoes": ["Ironia", "Humor", "Crítica social", "Exagero (hipérbole)"],
+          "opcoes": ["Ironia", "Quebra de Expectativa", "Crítica social", "Exagero (hipérbole)"],
           "correta": "Ironia",
+          "explicacao": "A personagem da Dona Anésia ironiza em suas falas."
+        },
+        {
+          "enunciado": "O efeito de humor da tirinha é construído principalmente pelo fato de Dona Anésia:",
+          "opcoes": ["desconhecer o significado da palavra 'irônica' e pedir ajuda para pesquisá-la na internet.", "concordar de forma educada e sincera com a observação feita por sua amiga à mesa", "confirmar a crítica da amiga usando exatamente o mesmo recurso apontado por ela (a ironia).", "demonstrar irritação por não saber utilizar ferramentas de busca como o Google."],
+          "correta": "confirmar a crítica da amiga usando exatamente o mesmo recurso apontado por ela (a ironia).",
           "explicacao": "A personagem da Dona Anésia ironiza em suas falas."
         }
       ]
@@ -55,9 +61,9 @@
       ],
       "perguntas": [
         {
-          "enunciado": "Enunciado",
-          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
-          "correta": "Item B",
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Ironia", "Quebra de Expectativa", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Ironia",
           "explicacao": ""
         }
       ]
@@ -74,9 +80,9 @@
       ],
       "perguntas": [
         {
-          "enunciado": "Enunciado",
-          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
-          "correta": "Item B",
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Hipérbole", "Crítica Social", "Ironia", "Quebra de Expectativa"],
+          "correta": "Quebra de Expectativa",
           "explicacao": ""
         }
       ]
@@ -94,11 +100,12 @@
       ],
       "perguntas": [
         {
-          "enunciado": "Enunciado",
-          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
-          "correta": "Item B",
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Ironia", "Quebra de Expectativa", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Crítica social",
           "explicacao": ""
-        }
+        },
+        { "enunciado": "Como os recursos verbais e visuais se articulam para construir a crítica presente na tirinha?", "opcoes": [ "A subida gradual da água contradiz o discurso negacionista do personagem, ironizando quem ignora problemas ambientais mesmo diante de suas consequências.", "O personagem percebe o aumento do nível do mar no segundo quadrinho e passa a alertar as outras pessoas sobre o aquecimento global.", "A linguagem não verbal mostra que o homem está nadando tranquilamente enquanto debate teorias científicas sobre o clima.", "A fala do personagem comprova que os alertas sobre mudanças climáticas são exageros criados para assustar a população." ], "correta": "A subida gradual da água contradiz o discurso negacionista do personagem, ironizando quem ignora problemas ambientais mesmo diante de suas consequências.", "explicacao": "Enquanto o personagem afirma que a mudança climática é uma 'invenção' e 'não existe', os elementos visuais mostram o nível da água subindo até cobri-lo por completo, criando uma forte ironia entre o que ele diz e a realidade que o atinge." }
       ]
     },
     {
@@ -113,11 +120,12 @@
       ],
       "perguntas": [
         {
-          "enunciado": "Enunciado",
-          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
-          "correta": "Item B",
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Ironia", "Quebra de Expectativa", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Crítica social",
           "explicacao": ""
-        }
+        },
+        { "enunciado": "Qual recurso argumentativo o personagem utiliza para criticar quem se opõe aos direitos humanos?", "opcoes": [ "Uma analogia que evidencia a incoerência de um ser humano agir contra garantias destinadas à sua própria espécie.", "Uma descrição literal do comportamento agressivo de animais domésticos diante de desconhecidos.", "Uma defesa da substituição dos direitos humanos por leis voltadas exclusivamente à proteção animal.", "Um relato histórico sobre o surgimento das primeiras declarações de direitos na sociedade." ], "correta": "Uma analogia que evidencia a incoerência de um ser humano agir contra garantias destinadas à sua própria espécie.", "explicacao": "Ao comparar um ser humano que protesta contra os direitos humanos a um cachorro latindo contra os direitos dos animais, o autor expõe o absurdo lógico e a contradição de alguém atacar princípios criados para proteger a si mesmo." }
       ]
     },
     {
@@ -133,9 +141,15 @@
       ],
       "perguntas": [
         {
-          "enunciado": "Enunciado",
-          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
-          "correta": "Item B",
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Ironia", "Quebra de Expectativa", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Ironia",
+          "explicacao": ""
+        },
+        {
+          "enunciado": "Com base na leitura da tirinha e nos recursos verbais e não verbais utilizados pelo autor, o efeito de humor do texto é construído principalmente a partir:",
+          "opcoes": ["da dificuldade de comunicação entre pessoas de gerações diferentes.", "da incoerência entre o conselho dado por um personagem e sua própria reação ao ser contrariado.", "da falta de compreensão do rapaz mais jovem sobre o real significado da palavra 'não'.", "do uso de linguagem formal excessiva em uma situação cotidiana e informal."],
+          "correta": "da incoerência entre o conselho dado por um personagem e sua própria reação ao ser contrariado.",
           "explicacao": ""
         }
       ]
@@ -152,11 +166,12 @@
       ],
       "perguntas": [
         {
-          "enunciado": "Enunciado",
-          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
-          "correta": "Item B",
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Hipérbole", "Crítica Social", "Ironia", "Quebra de Expectativa"],
+          "correta": "Quebra de Expectativa",
           "explicacao": ""
-        }
+        },
+        { "enunciado": "O que gera o efeito de humor no final da tirinha?", "opcoes": [ "O garoto ter viajado para vários países diferentes durante as férias escolares.", "A revelação de que todas as aventuras descritas aconteceram apenas dentro de um videogame.", "A dificuldade do personagem em escrever uma redação sobre suas próprias experiências.", "O fato de o menino ter ganhado prêmios reais jogando futebol em um campo." ], "correta": "A revelação de que todas as aventuras descritas aconteceram apenas dentro de um videogame.", "explicacao": "Durante os dois primeiros quadrinhos, o relato sugere que o garoto teve férias muito ativas e variadas no mundo real, mas o último quadrinho surpreende o leitor ao mostrar que todas aquelas experiências ocorreram de forma virtual." }
       ]
     },
     {
@@ -173,11 +188,12 @@
       ],
       "perguntas": [
         {
-          "enunciado": "Enunciado",
-          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
-          "correta": "Item B",
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Hipérbole", "Crítica Social", "Ironia", "Quebra de Expectativa"],
+          "correta": "Quebra de Expectativa",
           "explicacao": ""
-        }
+        },
+        { "enunciado": "Qual recurso expressivo sustenta o humor no desfecho da tirinha da Mafalda?", "opcoes": [ "A personificação do mar, tratado pela personagem como se tivesse atendido literalmente à sua ordem.", "O uso de linguagem técnica para explicar o movimento natural das marés e das ondas.", "A comparação explícita entre a força da água do mar e o comportamento de animais domésticos.", "A crítica social da personagem à falta de segurança e sinalização nas praias." ], "correta": "A personificação do mar, tratado pela personagem como se tivesse atendido literalmente à sua ordem.", "explicacao": "Ao ver a onda recuar e gritar 'Ei, volte!', Mafalda acaba sendo derrubada pela onda seguinte ('SCHLAFF!') e atribui o fenômeno natural a uma suposta 'obediência' do mar, atribuindo características humanas a um elemento da natureza." }
       ]
     },
     {
@@ -193,11 +209,12 @@
       ],
       "perguntas": [
         {
-          "enunciado": "Enunciado",
-          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
-          "correta": "Item B",
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Ironia", "Quebra de Expectativa", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Crítica social",
           "explicacao": ""
-        }
+        },
+        { "enunciado": "Qual crítica social é construída a partir da transformação de Pedrinho ao longo da tirinha?", "opcoes": [ "O impacto do uso excessivo de telas, que substituiu as brincadeiras ao ar livre pelo sedentarismo e pelos maus hábitos alimentares.", "A falta de espaços públicos seguros para que as crianças possam jogar futebol sem causar prejuízos.", "O alto custo dos presentes tecnológicos oferecidos às crianças durante as festas de fim de ano.", "A dificuldade dos pais em impor limites às travessuras cometidas pelos filhos fora de casa." ], "correta": "O impacto do uso excessivo de telas, que substituiu as brincadeiras ao ar livre pelo sedentarismo e pelos maus hábitos alimentares.", "explicacao": "Nos dois primeiros quadrinhos, Pedrinho é ativo e brinca na rua; após ganhar um computador no Natal, o último quadrinho mostra o garoto sedentário, acima do peso, cercado por fast-food e preso à tela, gerando uma ironia amarga na frase final 'Maldito Papai Noel.'" }
       ]
     },
     {
@@ -213,11 +230,12 @@
       ],
       "perguntas": [
         {
-          "enunciado": "Enunciado",
-          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
-          "correta": "Item B",
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Ironia", "Quebra de Expectativa", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Crítica social",
           "explicacao": ""
-        }
+        },
+        { "enunciado": "Qual recurso linguístico e visual provoca o efeito de humor no último quadrinho da tirinha?", "opcoes": [ "A interpretação literal da palavra 'apelativo' pelo jacaré, associando-a à sensualidade em vez de uma campanha dramática.", "A falta de interesse dos animais do lago em resolver o problema da poluição causada pelos seres humanos.", "O uso de linguagem científica pelos peixes para explicar os efeitos tóxicos do lixo na água.", "A crítica à dificuldade dos animais em compreender as leis ambientais criadas pela sociedade." ], "correta": "A interpretação literal da palavra 'apelativo' pelo jacaré, associando-a à sensualidade em vez de uma campanha dramática.", "explicacao": "No terceiro quadrinho, a capivara usa 'apelativo' no sentido de algo comovente ou chocante para sensibilizar as pessoas sobre o lixo; porém, no último quadrinho, Croco interpreta o termo no sentido de apelo sensual e aparece vestindo um biquíni, gerando quebra de expectativa e humor." }
       ]
     },
     {
@@ -233,9 +251,9 @@
       ],
       "perguntas": [
         {
-          "enunciado": "Enunciado",
-          "opcoes": ["Item A", "Item B", "Item C", "Item D"],
-          "correta": "Item B",
+          "enunciado": "Qual recurso é usado nesta tirinha?",
+          "opcoes": ["Ironia", "Quebra de Expectativa", "Crítica social", "Exagero (hipérbole)"],
+          "correta": "Ironia",
           "explicacao": ""
         }
       ]
